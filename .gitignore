@@ -1,0 +1,6 @@
+# Visual Studio generated files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
